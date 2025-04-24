@@ -1,5 +1,7 @@
 # New Super Mario Forever 2012: Slightly-Fixed Edition
 
+![Logo](./src/nsmfsfe.png)
+
 A modification of Softendo's New Super Mario Forever 2012 fangame, that removes some of the annoying stuff and adds a few tweaks.
 Most of the game's low-qualityness is still untouched though; fixing that would be the job of a full-on remake.
 The GameMaker 8.1 project file is also included.
