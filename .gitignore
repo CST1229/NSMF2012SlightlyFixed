@@ -3,5 +3,6 @@ savegame.dat
 map_savegame.dat
 maplevel_savegame.dat
 NSMFSlightlyFixed.exe
+NSMFSlightlyFixedWorldMaker.exe
 dist/
 text.png

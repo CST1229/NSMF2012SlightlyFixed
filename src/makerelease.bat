@@ -18,6 +18,8 @@ set roboadd=call :roboadd
 
 %add% NSMFSlightlyFixed.exe
 %add% NSMFSlightlyFixed.gm81
+%add% NSMFSlightlyFixedWorldMaker.exe
+%add% NSMFSlightlyFixedWorldMaker.gm81
 %add% README.md
 %add% CHANGELOG.md
 %add% plugin.ini
