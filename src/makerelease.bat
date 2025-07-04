@@ -8,6 +8,11 @@ if not exist NSMFSlightlyFixed.exe (
 	pause
 	goto :EOF
 )
+if not exist NSMFSlightlyFixedWorldMaker.exe (
+	echo You must build World Maker in GameMaker first!
+	pause
+	goto :EOF
+)
 
 mkdir dist
 del /Q /S dist\*
