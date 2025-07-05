@@ -1,6 +1,6 @@
+@echo off
 rem Makes a release by copying the neccessary files to a directory.
 
-@echo off
 pushd ..
 
 if not exist NSMFSlightlyFixed.exe (
@@ -29,6 +29,7 @@ set roboadd=call :roboadd
 %add% CHANGELOG.md
 %add% plugin.ini
 for %%f in (*.dll) do %add% %%f
+%roboadd% levels\
 %roboadd% data\
 
 echo Built to %CD%\dist

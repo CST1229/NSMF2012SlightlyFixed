@@ -1,6 +1,6 @@
 - [x] change classic mario forever option to point to mfce?
-- [] song display option? (in progress)
-- [] please let us skip the intro dialogue (also add text to it?)
+- [ ] song display option? (in progress)
+- [ ] please let us skip the intro dialogue (also add text to it?)
 - widescreen:
 	- [x] fix title quote message
 	- [x] fix loading screen
@@ -9,7 +9,8 @@
 	- [x] adjust hud
 		- [x] fix the happy star thingy
 	- [x] adjust map stuff
-	- [] smaller than 800x600 room bounds?
-	- [] add options option (probably replacing joypad since it does nothing)
-	- [] fix autoscroll
-- [] better window scaling keeping
+	- [ ] smaller than 800x600 room bounds?
+	- [ ] add options option (probably replacing joypad since it does nothing)
+	- [ ] fix autoscroll
+- [ ] better window scaling keeping
+	- [ ] apparently gm82 has added a fix for this but no release yet so i'll have to wait
