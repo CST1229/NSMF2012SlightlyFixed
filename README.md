@@ -4,7 +4,8 @@
 
 A modification of Softendo's New Super Mario Forever 2012 fangame, that removes some of the annoying stuff and adds a few tweaks.
 Most of the game's low-qualityness is still untouched though; fixing that would be the job of a full-on remake.
-The project file, for use with [GameMaker 8.2](https://gm82.cherry-treehouse.com) (!), is also included.
+
+The project file, for use with [GameMaker 8.2](https://gm82.cherry-treehouse.com) (!), can be found [on GitHub](https://github.com/CST1229/NSMFSlightlyFixed/).
 
 (This mod is virus-free, obviously.)
 
