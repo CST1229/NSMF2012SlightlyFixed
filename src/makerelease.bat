@@ -26,7 +26,7 @@ for %%f in (*.gm81) do %add% %%f
 for %%f in (*.dll) do %add% %%f
 %add% README.md
 %add% CHANGELOG.md
-%roboadd% levels\
+%roboadd% custom_levels\
 %roboadd% data\
 
 echo Built to %CD%\dist
