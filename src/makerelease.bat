@@ -22,7 +22,6 @@ set add=call :add
 set roboadd=call :roboadd
 
 for %%f in (*.exe) do %add% %%f
-for %%f in (*.gm81) do %add% %%f
 for %%f in (*.dll) do %add% %%f
 %add% README.md
 %add% CHANGELOG.md

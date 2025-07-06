@@ -1,1 +1,1 @@
-Source files not to be included in releases. (The gm81 file IS to be included in releases.)
+Miscellaneous source files not to be included in releases.
