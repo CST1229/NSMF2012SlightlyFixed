@@ -13,4 +13,4 @@
 	- [ ] add options option (probably replacing joypad since it does nothing)
 	- [ ] fix autoscroll
 - [ ] better window scaling keeping
-	- [ ] apparently gm82 has added a fix for this but no release yet so i'll have to wait
+	- apparently gm82 has added a fix for this but no release yet so i'll have to wait

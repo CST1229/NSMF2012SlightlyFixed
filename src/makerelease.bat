@@ -21,14 +21,11 @@ rem fancy syntax stuff yay
 set add=call :add
 set roboadd=call :roboadd
 
-%add% NSMFSlightlyFixed.exe
-%add% NSMFSlightlyFixed.gm81
-%add% NSMFSlightlyFixedWorldMaker.exe
-%add% NSMFSlightlyFixedWorldMaker.gm81
+for %%f in (*.exe) do %add% %%f
+for %%f in (*.gm81) do %add% %%f
+for %%f in (*.dll) do %add% %%f
 %add% README.md
 %add% CHANGELOG.md
-%add% plugin.ini
-for %%f in (*.dll) do %add% %%f
 %roboadd% levels\
 %roboadd% data\
 
