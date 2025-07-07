@@ -5,6 +5,7 @@
 - Many fixes for widescreen
 - Replaced Classic Mario Forever link with Mario Forever Community Edition
 - Added a slightly-fixed version of NSMF2012 World Maker
+- The project files are no longer bundled with compiled builds to decrease filesize. They can still be found on the GitHub repo: https://github.com/CST1229/NSMF2012SlightlyFixed
 
 ## v1.0
 - Initial release
